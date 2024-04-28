@@ -124,7 +124,7 @@
     <value>Vos jeux</value>
   </data>
   <data name="MainWindowTitle" xml:space="preserve">
-    <value>Gavilya</value>
+    <value>MyLauncher</value>
   </data>
   <data name="Add" xml:space="preserve">
     <value>Ajouter</value>
@@ -166,7 +166,7 @@
     <value>A propos</value>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>Gavilya</value>
+    <value>MyLauncher</value>
   </data>
   <data name="CheckForUpdates" xml:space="preserve">
     <value>Rechercher des mises à jour</value>
@@ -181,7 +181,7 @@
     <value>Aucunes mises à jour disponibles</value>
   </data>
   <data name="UpdateAvMessage" xml:space="preserve">
-    <value>Des mises à jour sont disponibles pour Gavilya :</value>
+    <value>Des mises à jour sont disponibles pour MyLauncher :</value>
   </data>
   <data name="UpdateVersion" xml:space="preserve">
     <value>Version :</value>
@@ -199,7 +199,7 @@
     <value>Fermer</value>
   </data>
   <data name="XUDoesNotExist" xml:space="preserve">
-    <value>Xalyus Updater n'existe pas, veuillez réinstaller Gavilya.</value>
+    <value>Xalyus Updater n'existe pas, veuillez réinstaller MyLauncher.</value>
   </data>
   <data name="CoverSearch" xml:space="preserve">
     <value>Rechercher une couverture de jeu</value>
@@ -295,10 +295,10 @@
     <value>Importer vos jeux</value>
   </data>
   <data name="ExportGamesDescription" xml:space="preserve">
-    <value>Exporter vos jeux dans Gavilya dans un fichier de sauvegarde .g4vgames.</value>
+    <value>Exporter vos jeux dans MyLauncher dans un fichier de sauvegarde .g4vgames.</value>
   </data>
   <data name="ImportGamesDescription" xml:space="preserve">
-    <value>Importer un fichier de sauvegarde .g4vgames dans Gavilya. Le fichier de sauvegarde actuel sera remplacé par le nouveau.</value>
+    <value>Importer un fichier de sauvegarde .g4vgames dans MyLauncher. Le fichier de sauvegarde actuel sera remplacé par le nouveau.</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Exporter</value>
@@ -331,7 +331,7 @@
     <value>Langues</value>
   </data>
   <data name="ChangeLanguageDescription" xml:space="preserve">
-    <value>Changer la langue actuelle de Gavilya.</value>
+    <value>Changer la langue actuelle de MyLauncher.</value>
   </data>
   <data name="Default" xml:space="preserve">
     <value>Par défaut</value>
@@ -370,7 +370,7 @@
     <value>Le processus à rechercher lorsque le jeu est en cours d'exécution. Il permet de compter le temps que vous avez joué au jeu. Laissez le champ vide pour utiliser le nom de l'exécutable par défaut.</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>Bienvenue dans Gavilya</value>
+    <value>Bienvenue dans MyLauncher</value>
   </data>
   <data name="GameGathered" xml:space="preserve">
     <value>Là où vos jeux sont rassemblés.</value>
@@ -394,7 +394,7 @@
     <value>Intégration de la base de données de RAWG</value>
   </data>
   <data name="RAWGDescriptionFirstRun" xml:space="preserve">
-    <value>Gavilya est intégré avec la base de données de RAWG.io, ce qui signifie que Gavilya peut automatiquement trouver des couvertures, des descriptions et d'autres informations à propos d'un jeu.</value>
+    <value>MyLauncher est intégré avec la base de données de RAWG.io, ce qui signifie que MyLauncher peut automatiquement trouver des couvertures, des descriptions et d'autres informations à propos d'un jeu.</value>
   </data>
   <data name="ImportGamesFirstRunDescription" xml:space="preserve">
     <value>Si vous étiez un ancien utilisateur, vous voulez peut-être importer un fichier de sauvegarder ".gav".</value>
@@ -403,7 +403,7 @@
     <value>Terminé !</value>
   </data>
   <data name="ReadyFirstRun" xml:space="preserve">
-    <value>Vous êtes prêt pour utiliser Gavilya.</value>
+    <value>Vous êtes prêt pour utiliser MyLauncher.</value>
   </data>
   <data name="LetsGo" xml:space="preserve">
     <value>C'est parti !</value>
@@ -499,7 +499,7 @@
     <value>Ce jeu n'a pas de succès.</value>
   </data>
   <data name="NoAchivementsMsg" xml:space="preserve">
-    <value>Gavilya n'a trouvé aucun succès pour ce jeu dans la base de données RAWG.io, ou ce jeu n'est pas associé à RAWG.</value>
+    <value>MyLauncher n'a trouvé aucun succès pour ce jeu dans la base de données RAWG.io, ou ce jeu n'est pas associé à RAWG.</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>Réinitialiser</value>
@@ -604,7 +604,7 @@
     <value>Pas associé</value>
   </data>
   <data name="UpdateAvMessageNotify" xml:space="preserve">
-    <value>Des mises à jour sont disponibles pour Gavilya.</value>
+    <value>Des mises à jour sont disponibles pour MyLauncher.</value>
   </data>
   <data name="Back" xml:space="preserve">
     <value>Retour</value>
@@ -679,7 +679,7 @@
     <value>Mode d’affichage par défaut dans la Bibliothèque</value>
   </data>
   <data name="PopupMenu" xml:space="preserve">
-    <value>Gavilya - Menu</value>
+    <value>MyLauncher - Menu</value>
   </data>
   <data name="DefaultPage" xml:space="preserve">
     <value>Page par défaut</value>
@@ -702,8 +702,8 @@
   <data name="ResetSettingsMsg" xml:space="preserve">
     <value>Êtes-vous sûr de vouloir réinitialiser TOUS les paramètres? Cette opération est irréversible.</value>
   </data>
-  <data name="GavilyaNeedsRestartChanges" xml:space="preserve">
-    <value>Gavilya doit redémarrer pour appliquer les changements.</value>
+  <data name="MyLauncherNeedsRestartChanges" xml:space="preserve">
+    <value>MyLauncher doit redémarrer pour appliquer les changements.</value>
   </data>
   <data name="TheStart" xml:space="preserve">
     <value>Le Commencement</value>
@@ -976,7 +976,7 @@
     <value>Thèmes</value>
   </data>
   <data name="ThemesDesc" xml:space="preserve">
-    <value>Définir le thème de Gavilya.</value>
+    <value>Définir le thème de MyLauncher.</value>
   </data>
   <data name="ThemesImport" xml:space="preserve">
     <value>Importer un thème</value>
