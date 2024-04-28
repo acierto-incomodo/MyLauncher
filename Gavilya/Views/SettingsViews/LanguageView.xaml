@@ -72,6 +72,7 @@
                             Style="{DynamicResource ComboBoxStyle1}">
                             <ComboBoxItem Content="{x:Static lang:Resources.Default}" />
                             <ComboBoxItem Content="English (United States)" />
+                            <ComboBoxItem Content="Español" />
                             <ComboBoxItem Content="Français (France)" />
                             <ComboBoxItem Content="中文（简体）" />
                         </ComboBox>
