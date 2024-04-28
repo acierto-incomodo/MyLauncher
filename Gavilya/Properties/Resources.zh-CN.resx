@@ -124,7 +124,7 @@
     <value>您的游戏</value>
   </data>
   <data name="MainWindowTitle" xml:space="preserve">
-    <value>Gavilya</value>
+    <value>MyLauncher</value>
   </data>
   <data name="Add" xml:space="preserve">
     <value>添加</value>
@@ -166,7 +166,7 @@
     <value>关于</value>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>Gavilya</value>
+    <value>MyLauncher</value>
   </data>
   <data name="CheckForUpdates" xml:space="preserve">
     <value>检查更新</value>
@@ -295,10 +295,10 @@
     <value>导入您的游戏</value>
   </data>
   <data name="ExportGamesDescription" xml:space="preserve">
-    <value>将您在 Gavilya 中的游戏导出为 .g4vgames 保存文件。</value>
+    <value>将您在 MyLauncher 中的游戏导出为 .g4vgames 保存文件。</value>
   </data>
   <data name="ImportGamesDescription" xml:space="preserve">
-    <value>在 Gavilya 中导入 .g4vgames 保存文件。 当前的保存文件将被新的文件替换。</value>
+    <value>在 MyLauncher 中导入 .g4vgames 保存文件。 当前的保存文件将被新的文件替换。</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>导出</value>
@@ -370,7 +370,7 @@
     <value>游戏运行时要查找的进程。 它允许计算您玩游戏的时间。 将该字段留空以使用默认的可执行文件。</value>
   </data>
   <data name="Welcome" xml:space="preserve">
-    <value>欢迎使用 Gavilya</value>
+    <value>欢迎使用 MyLauncher</value>
   </data>
   <data name="GameGathered" xml:space="preserve">
     <value>你所有的游戏都聚集在这里。</value>
@@ -499,7 +499,7 @@
     <value>这个游戏没有成就。</value>
   </data>
   <data name="NoAchivementsMsg" xml:space="preserve">
-    <value>Gavilya 在 RAWG.io 数据库中没有找到任何成就，或者这个游戏与 RAWG 没有关联。</value>
+    <value>MyLauncher 在 RAWG.io 数据库中没有找到任何成就，或者这个游戏与 RAWG 没有关联。</value>
   </data>
   <data name="Reset" xml:space="preserve">
     <value>重置</value>
@@ -679,7 +679,7 @@
     <value>库中的默认视图模式</value>
   </data>
   <data name="PopupMenu" xml:space="preserve">
-    <value>Gavilya - 菜单</value>
+    <value>MyLauncher - 菜单</value>
   </data>
   <data name="DefaultPage" xml:space="preserve">
     <value>默认页面</value>
@@ -702,8 +702,8 @@
   <data name="ResetSettingsMsg" xml:space="preserve">
     <value>您确定要重置所有设置吗？ 这个操作是不可逆的。</value>
   </data>
-  <data name="GavilyaNeedsRestartChanges" xml:space="preserve">
-    <value>Gavilya 需要重新启动才能应用更改。</value>
+  <data name="MyLauncherNeedsRestartChanges" xml:space="preserve">
+    <value>MyLauncher 需要重新启动才能应用更改。</value>
   </data>
   <data name="TheStart" xml:space="preserve">
     <value>在开始</value>
