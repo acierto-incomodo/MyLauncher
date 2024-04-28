@@ -54,6 +54,7 @@ public partial class App : Application
 				Language.en_US => "en-US",
 				Language.fr_FR => "fr-FR",
 				Language.zh_CN => "zh-CN",
+    				Language.es_ES => "es-ES",
 			});
 
 		currentProfile.Settings.EnableSearchShortcut ??= true;
